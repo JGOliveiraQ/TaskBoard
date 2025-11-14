@@ -70,7 +70,7 @@ Ideal para aprendizado de:
 
 1. Baixe ou clone o repositório:
 
-git clone https://github.com/seu-usuario/taskboard.git
+git clone https://github.com/JGoliveiraQ/taskboard.git
 
 2. Abra o arquivo:
 
